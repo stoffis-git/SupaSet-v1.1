@@ -209,16 +209,6 @@ export default function AuthPage() {
           </CardBody>
         </Card>
 
-        {/* Anonymous Mode Option */}
-        <div className="text-center mt-6">
-          <p className="text-dark-400 text-sm mb-2">
-            Want to try without an account?
-          </p>
-          <button
-            onClick={() => window.location.href = '/'}
-            className="text-indigo-400 hover:text-indigo-300 text-sm underline"
-          >
-            Continue as Guest
           </button>
         </div>
       </div>
