@@ -1,0 +1,1829 @@
+[
+  {
+    "exercise_id": "barbellbenchpre",
+    "name": "Barbell Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "compound",
+      "horizontal_push",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "inclinebarbellbenchpre",
+    "name": "Incline Barbell Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "compound",
+      "horizontal_push",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "dumbbellbenchpre",
+    "name": "Dumbbell Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bench",
+      "compound",
+      "dumbbell",
+      "horizontal_push",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "inclinedumbbellbenchpre",
+    "name": "Incline Dumbbell Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bench",
+      "compound",
+      "dumbbell",
+      "horizontal_push",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "declinebenchpre",
+    "name": "Decline Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "compound",
+      "horizontal_push",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "clo_egripbenchpre",
+    "name": "Close‑Grip Bench Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "compound",
+      "horizontal_push",
+      "push",
+      "upper_body",
+      "triceps",
+      "isolation"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "overheadbarbellpre",
+    "name": "Overhead Barbell Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "push",
+      "upper_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "dumbbell_houlderpre",
+    "name": "Dumbbell Shoulder Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bench_optional",
+      "compound",
+      "dumbbell",
+      "push",
+      "upper_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench_optional"
+    ]
+  },
+  {
+    "exercise_id": "landminepre",
+    "name": "Landmine Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "diagonal_push",
+      "landmine",
+      "push",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "landmine"
+    ]
+  },
+  {
+    "exercise_id": "pushpress",
+    "name": "Push Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "explosive",
+      "push",
+      "upper_body",
+      "lower_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "pushjerk",
+    "name": "Push Jerk",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "explosive",
+      "push",
+      "upper_body",
+      "lower_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "behindtheneckpress",
+    "name": "Behind the Neck Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "push",
+      "upper_body",
+      "vertical_push",
+      "advanced"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "behindtheneckpushpress",
+    "name": "Behind the Neck Push Press",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "explosive",
+      "push",
+      "upper_body",
+      "lower_body",
+      "vertical_push",
+      "advanced"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "bodyweightdip",
+    "name": "Bodyweight Dip",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bars",
+      "bodyweight",
+      "compound",
+      "push",
+      "upper_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bars"
+    ]
+  },
+  {
+    "exercise_id": "weighteddip",
+    "name": "Weighted Dip",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bars",
+      "bodyweight",
+      "compound",
+      "push",
+      "upper_body",
+      "vertical_push",
+      "weighted"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bars",
+      "weight_plate"
+    ]
+  },
+  {
+    "exercise_id": "hand_tandpu_hup",
+    "name": "Handstand PushUp",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bodyweight",
+      "compound",
+      "push",
+      "upper_body",
+      "vertical_push"
+    ],
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "pullup",
+    "name": "PullUp",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bar",
+      "bodyweight",
+      "compound",
+      "pull",
+      "upper_body",
+      "vertical_pull"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bar"
+    ]
+  },
+  {
+    "exercise_id": "chinup",
+    "name": "ChinUp",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bar",
+      "bodyweight",
+      "compound",
+      "pull",
+      "upper_body",
+      "vertical_pull"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bar"
+    ]
+  },
+  {
+    "exercise_id": "weightedchinup",
+    "name": "Weighted ChinUp",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bar",
+      "bodyweight",
+      "compound",
+      "pull",
+      "upper_body",
+      "vertical_pull",
+      "weighted"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bar",
+      "weight_plate"
+    ]
+  },
+  {
+    "exercise_id": "behindtheneckpullup",
+    "name": "Behind the Neck PullUp",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bar",
+      "bodyweight",
+      "compound",
+      "pull",
+      "upper_body",
+      "vertical_pull",
+      "advanced"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bar"
+    ]
+  },
+  {
+    "exercise_id": "cleanpull",
+    "name": "Clean Pull",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "explosive",
+      "pull",
+      "upper_body",
+      "lower_body",
+      "olympic"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "snatchpull",
+    "name": "Snatch Pull",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "explosive",
+      "pull",
+      "upper_body",
+      "lower_body",
+      "olympic"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "latpulldown",
+    "name": "Lat Pulldown",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "cable",
+      "compound",
+      "machine",
+      "pull",
+      "upper_body",
+      "vertical_pull"
+    ],
+    "equipment": [
+      "machine",
+      "cable"
+    ]
+  },
+  {
+    "exercise_id": "barbellbentoverrow",
+    "name": "Barbell BentOver Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "horizontal_pull",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "pendlayrow",
+    "name": "Pendlay Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "horizontal_pull",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "tbarrow",
+    "name": "TBar Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "horizontal_pull",
+      "machine",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "eatedcablerow",
+    "name": "Seated Cable Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "cable",
+      "compound",
+      "horizontal_pull",
+      "machine",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "che_t_upportedrow",
+    "name": "ChestSupported Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "compound",
+      "horizontal_pull",
+      "machine",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "onearmdumbbellrow",
+    "name": "OneArm Dumbbell Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bench",
+      "compound",
+      "dumbbell",
+      "horizontal_pull",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "meadow_row",
+    "name": "Meadows Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "horizontal_pull",
+      "landmine",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "landmine"
+    ]
+  },
+  {
+    "exercise_id": "invertedrow",
+    "name": "Inverted Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bar",
+      "bodyweight",
+      "compound",
+      "horizontal_pull",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "bodyweight",
+      "bar"
+    ]
+  },
+  {
+    "exercise_id": "renegaderow",
+    "name": "Renegade Row",
+    "movement_type": "compound",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bodyweight",
+      "compound",
+      "dumbbell",
+      "horizontal_pull",
+      "pull",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "back_quat",
+    "name": "Back Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "push",
+      "rack",
+      "squat"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ]
+  },
+  {
+    "exercise_id": "front_quat",
+    "name": "Front Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "push",
+      "rack",
+      "squat"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ]
+  },
+  {
+    "exercise_id": "goblet_quat",
+    "name": "Goblet Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "compound",
+      "dumbbell",
+      "kettlebell",
+      "knee_dominant",
+      "lower_body",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "dumbbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "exercise_id": "hack_quat",
+    "name": "Hack Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "legpre",
+    "name": "Leg Press",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "walkinglunge",
+    "name": "Walking Lunge",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "bodyweight_or_load",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "lunge",
+      "push"
+    ],
+    "equipment": [
+      "bodyweight_or_load"
+    ]
+  },
+  {
+    "exercise_id": "bulgarian_plit_quat",
+    "name": "Bulgarian Split Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "bench",
+      "bodyweight_or_load",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "lunge",
+      "push"
+    ],
+    "equipment": [
+      "bodyweight_or_load",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "tepup",
+    "name": "StepUp",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "bench",
+      "bodyweight_or_load",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "lunge",
+      "push"
+    ],
+    "equipment": [
+      "bodyweight_or_load",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "pi_tol_quat",
+    "name": "Pistol Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "bodyweight",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "zercher_quat",
+    "name": "Zercher Squat",
+    "movement_type": "compound",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "knee_dominant",
+      "lower_body",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "conventionaldeadlift",
+    "name": "Conventional Deadlift",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "umodeadlift",
+    "name": "Sumo Deadlift",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "trapbardeadlift",
+    "name": "TrapBar Deadlift",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull",
+      "trap_bar"
+    ],
+    "equipment": [
+      "trap_bar"
+    ]
+  },
+  {
+    "exercise_id": "romaniandeadlift",
+    "name": "Romanian Deadlift",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "inglelegromaniandeadlift",
+    "name": "SingleLeg Romanian Deadlift",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "bodyweight",
+      "compound",
+      "dumbbell",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "goodmorning",
+    "name": "Good Morning",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "hipthru_ter",
+    "name": "Hip Thruster",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "machine",
+      "pull"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "barbellhipthru_t",
+    "name": "Barbell Hip Thrust",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "kettlebell_wing",
+    "name": "Kettlebell Swing",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "kettlebell",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "kettlebell"
+    ]
+  },
+  {
+    "exercise_id": "glutebridge",
+    "name": "Glute Bridge",
+    "movement_type": "compound",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "barbell_optional",
+      "bodyweight",
+      "compound",
+      "hinge",
+      "hip_dominant",
+      "lower_body",
+      "pull"
+    ],
+    "equipment": [
+      "bodyweight",
+      "barbell_optional"
+    ]
+  },
+  {
+    "exercise_id": "dumbbellche_tfly",
+    "name": "Dumbbell Chest Fly",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "bench",
+      "dumbbell",
+      "isolation",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "cableche_tfly",
+    "name": "Cable Chest Fly",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "cable",
+      "isolation",
+      "machine",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "pecdeckfly",
+    "name": "Pec Deck Fly",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "isolation",
+      "machine",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "tricep_pu_hdown",
+    "name": "Triceps Pushdown",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "cable",
+      "isolation",
+      "machine",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "overheadtricep_exten_ion",
+    "name": "Overhead Triceps Extension",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "cable",
+      "dumbbell",
+      "isolation",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "cable"
+    ]
+  },
+  {
+    "exercise_id": "kullcru_her",
+    "name": "Skull Crusher",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "isolation",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "dumbbellfrontrai_e",
+    "name": "Dumbbell Front Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "dumbbell",
+      "isolation",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "dumbbelllateralrai_e",
+    "name": "Dumbbell Lateral Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "dumbbell",
+      "isolation",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "cablelateralrai_e",
+    "name": "Cable Lateral Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "cable",
+      "isolation",
+      "machine",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "machine_houlderpre",
+    "name": "Machine Shoulder Press",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_push"
+    ],
+    "tags": [
+      "isolation",
+      "machine",
+      "push",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "barbellcurl",
+    "name": "Barbell Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "dumbbellcurl",
+    "name": "Dumbbell Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "dumbbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "hammercurl",
+    "name": "Hammer Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "dumbbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "preachercurl",
+    "name": "Preacher Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "bench",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "concentrationcurl",
+    "name": "Concentration Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "dumbbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "facepull",
+    "name": "Face Pull",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "cable",
+      "isolation",
+      "machine",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "reardeltfly",
+    "name": "Rear Delt Fly",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "cable",
+      "dumbbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "cable"
+    ]
+  },
+  {
+    "exercise_id": "cableropecurl",
+    "name": "Cable Rope Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "cable",
+      "isolation",
+      "machine",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "rever_ecurl",
+    "name": "Reverse Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "barbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "inclinedumbbellcurl",
+    "name": "Incline Dumbbell Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "upper_body_pull"
+    ],
+    "tags": [
+      "bench",
+      "dumbbell",
+      "isolation",
+      "pull",
+      "single_joint",
+      "upper_body"
+    ],
+    "equipment": [
+      "dumbbell",
+      "bench"
+    ]
+  },
+  {
+    "exercise_id": "legexten_ion",
+    "name": "Leg Extension",
+    "movement_type": "isolation",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "isolation",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "eatedcalfrai_e",
+    "name": "Seated Calf Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "isolation",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "tandingcalfrai_e",
+    "name": "Standing Calf Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "isolation",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "adductormachine",
+    "name": "Adductor Machine",
+    "movement_type": "isolation",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "isolation",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "abductormachine",
+    "name": "Abductor Machine",
+    "movement_type": "isolation",
+    "categories": [
+      "knee_dominant"
+    ],
+    "tags": [
+      "isolation",
+      "knee_dominant",
+      "lower_body",
+      "machine",
+      "push",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "lyinglegcurl",
+    "name": "Lying Leg Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "hip_dominant",
+      "isolation",
+      "lower_body",
+      "machine",
+      "pull",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "eatedlegcurl",
+    "name": "Seated Leg Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "hip_dominant",
+      "isolation",
+      "lower_body",
+      "machine",
+      "pull",
+      "single_joint"
+    ],
+    "equipment": [
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "nordichamcurl",
+    "name": "Nordic Ham Curl",
+    "movement_type": "isolation",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "bodyweight",
+      "hip_dominant",
+      "isolation",
+      "lower_body",
+      "pull",
+      "single_joint"
+    ],
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "cablepullthrough",
+    "name": "Cable PullThrough",
+    "movement_type": "isolation",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "cable",
+      "hip_dominant",
+      "isolation",
+      "lower_body",
+      "machine",
+      "pull",
+      "single_joint"
+    ],
+    "equipment": [
+      "cable",
+      "machine"
+    ]
+  },
+  {
+    "exercise_id": "glutehamrai_e",
+    "name": "GluteHam Raise",
+    "movement_type": "isolation",
+    "categories": [
+      "hip_dominant"
+    ],
+    "tags": [
+      "ghr_bench",
+      "hip_dominant",
+      "isolation",
+      "lower_body",
+      "pull",
+      "single_joint"
+    ],
+    "equipment": [
+      "ghr_bench"
+    ]
+  },
+  {
+    "exercise_id": "powerclean",
+    "name": "Power Clean",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "barbell",
+      "explosive",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "power_natch",
+    "name": "Power Snatch",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "barbell",
+      "explosive",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "cleanandjerk",
+    "name": "Clean and Jerk",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "barbell",
+      "explosive",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "thru_ter",
+    "name": "Thruster",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "barbell",
+      "dumbbell",
+      "explosive",
+      "full_body",
+      "hybrid",
+      "push",
+      "squat"
+    ],
+    "equipment": [
+      "barbell",
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "turki_hgetup",
+    "name": "Turkish GetUp",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "core",
+      "dumbbell",
+      "full_body",
+      "hybrid",
+      "kettlebell",
+      "shoulder"
+    ],
+    "equipment": [
+      "kettlebell",
+      "dumbbell"
+    ]
+  },
+  {
+    "exercise_id": "farmercarry",
+    "name": "Farmer Carry",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "dumbbell",
+      "full_body",
+      "grip",
+      "hybrid",
+      "kettlebell",
+      "trap_bar"
+    ],
+    "equipment": [
+      "dumbbell",
+      "kettlebell",
+      "trap_bar"
+    ]
+  },
+  {
+    "exercise_id": "uitca_ecarry",
+    "name": "Suitcase Carry",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "dumbbell",
+      "full_body",
+      "grip",
+      "hybrid",
+      "kettlebell",
+      "unilateral"
+    ],
+    "equipment": [
+      "dumbbell",
+      "kettlebell"
+    ]
+  },
+  {
+    "exercise_id": "ledpu_h",
+    "name": "Sled Push",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "conditioning",
+      "full_body",
+      "hybrid",
+      "sled"
+    ],
+    "equipment": [
+      "sled"
+    ]
+  },
+  {
+    "exercise_id": "battleropewave",
+    "name": "Battle Rope Wave",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "battle_rope",
+      "conditioning",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "battle_rope"
+    ]
+  },
+  {
+    "exercise_id": "burpee",
+    "name": "Burpee",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "bodyweight",
+      "conditioning",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "bodyweight"
+    ]
+  },
+  {
+    "exercise_id": "bearcomplex",
+    "name": "Bear Complex",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "barbell",
+      "complex",
+      "full_body",
+      "hybrid"
+    ],
+    "equipment": [
+      "barbell"
+    ]
+  },
+  {
+    "exercise_id": "kettlebellcleanandpre",
+    "name": "Kettlebell Clean and Press",
+    "movement_type": "hybrid",
+    "categories": [
+      "full_body"
+    ],
+    "tags": [
+      "explosive",
+      "full_body",
+      "hybrid",
+      "kettlebell",
+      "pull",
+      "push"
+    ],
+    "equipment": [
+      "kettlebell"
+    ]
+  }
+]
