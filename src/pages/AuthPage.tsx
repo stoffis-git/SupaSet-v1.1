@@ -205,12 +205,11 @@ export default function AuthPage() {
                   <li>Access your data anywhere</li>
                 </ul>
               </div>
-            )}
-          </CardBody>
-        </Card>
-
+            className="text-indigo-400 hover:text-indigo-300 text-sm underline"
+          >
+            Continue as Guest
+          </button>
         </div>
-
       </div>
     </div>
   )
